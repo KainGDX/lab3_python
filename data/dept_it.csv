@@ -1,0 +1,3 @@
+id,amount,category,date,currency
+it_01,1000.50,IT,2023-10-01,USD
+it_02,500,IT,2023-10-02,USD

@@ -1,0 +1,12 @@
+{
+    "metadata": {
+        "currency": "USD",
+        "files_processed": 9,
+        "successful_files": 4
+    },
+    "results": {
+        "IT": 1500.5,
+        "Marketing": 1200.0,
+        "Office": 150.75
+    }
+}

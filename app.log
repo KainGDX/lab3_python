@@ -1,0 +1,50 @@
+2026-03-30 11:25:51,361 [ERROR] Ошибка в broken.json: Ошибка чтения JSON: Expecting ',' delimiter: line 1 column 30 (char 29)
+2026-03-30 11:25:51,362 [INFO] Файл dept_it.csv успешно обработан.
+2026-03-30 11:25:51,362 [INFO] Файл dept_marketing.json успешно обработан.
+2026-03-30 11:25:51,362 [WARNING] Дубликат ID it_01 в duplicate.csv Пропущен
+2026-03-30 11:25:51,362 [INFO] Файл duplicate.csv успешно обработан.
+2026-03-30 11:25:51,363 [ERROR] Ошибка в empty_fields.csv: Отсутствует поле или оно пустое: amount
+2026-03-30 11:25:51,363 [ERROR] Ошибка в error_currency.json: Конфликт: EUR вместо USD
+2026-03-30 11:25:51,363 [ERROR] Ошибка в error_negative.csv: Сумма должна быть > 0, получено: -100.0
+2026-03-30 11:25:51,363 [ERROR] Ошибка в image.txt: Формат .txt не поддерживается
+2026-03-30 11:25:51,363 [INFO] Файл manual_costs.json успешно обработан.
+2026-03-30 11:25:57,978 [ERROR] Ошибка в broken.json: Ошибка чтения JSON: Expecting ',' delimiter: line 1 column 30 (char 29)
+2026-03-30 11:25:57,979 [INFO] Файл dept_it.csv успешно обработан.
+2026-03-30 11:25:57,979 [INFO] Файл dept_marketing.json успешно обработан.
+2026-03-30 11:25:57,980 [WARNING] Дубликат ID it_01 в duplicate.csv Пропущен
+2026-03-30 11:25:57,980 [INFO] Файл duplicate.csv успешно обработан.
+2026-03-30 11:25:57,981 [ERROR] Ошибка в empty_fields.csv: Отсутствует поле или оно пустое: amount
+2026-03-30 11:25:57,981 [ERROR] Ошибка в error_currency.json: Конфликт: EUR вместо USD
+2026-03-30 11:25:57,981 [ERROR] Ошибка в error_negative.csv: Сумма должна быть > 0, получено: -100.0
+2026-03-30 11:25:57,981 [ERROR] Ошибка в image.txt: Формат .txt не поддерживается
+2026-03-30 11:25:57,981 [INFO] Файл manual_costs.json успешно обработан.
+2026-05-07 09:45:25,114 [ERROR] Ошибка в broken.json: Ошибка чтения JSON: Expecting ',' delimiter: line 1 column 30 (char 29)
+2026-05-07 09:45:25,122 [INFO] Файл dept_it.csv успешно обработан.
+2026-05-07 09:45:25,131 [INFO] Файл dept_marketing.json успешно обработан.
+2026-05-07 09:45:25,139 [WARNING] Дубликат ID it_01 в duplicate.csv Пропущен
+2026-05-07 09:45:25,139 [INFO] Файл duplicate.csv успешно обработан.
+2026-05-07 09:45:25,149 [ERROR] Ошибка в empty_fields.csv: Отсутствует поле или оно пустое: amount
+2026-05-07 09:45:25,158 [ERROR] Ошибка в error_currency.json: Конфликт: EUR вместо USD
+2026-05-07 09:45:25,167 [ERROR] Ошибка в error_negative.csv: Сумма должна быть > 0, получено: -100.0
+2026-05-07 09:45:25,167 [ERROR] Ошибка в image.txt: Формат .txt не поддерживается
+2026-05-07 09:45:25,178 [INFO] Файл manual_costs.json успешно обработан.
+2026-05-07 09:48:39,402 [ERROR] Ошибка в broken.json: Ошибка чтения JSON: Expecting ',' delimiter: line 1 column 30 (char 29)
+2026-05-07 09:48:39,403 [INFO] Файл dept_it.csv успешно обработан.
+2026-05-07 09:48:39,404 [INFO] Файл dept_marketing.json успешно обработан.
+2026-05-07 09:48:39,404 [WARNING] Дубликат ID it_01 в duplicate.csv Пропущен
+2026-05-07 09:48:39,404 [INFO] Файл duplicate.csv успешно обработан.
+2026-05-07 09:48:39,405 [ERROR] Ошибка в empty_fields.csv: Отсутствует поле или оно пустое: amount
+2026-05-07 09:48:39,406 [ERROR] Ошибка в error_currency.json: Конфликт: EUR вместо USD
+2026-05-07 09:48:39,406 [ERROR] Ошибка в error_negative.csv: Сумма должна быть > 0, получено: -100.0
+2026-05-07 09:48:39,407 [ERROR] Ошибка в image.txt: Формат .txt не поддерживается
+2026-05-07 09:48:39,407 [INFO] Файл manual_costs.json успешно обработан.
+2026-05-07 11:07:44,387 [ERROR] Ошибка в broken.json: Ошибка чтения JSON: Expecting ',' delimiter: line 1 column 30 (char 29)
+2026-05-07 11:07:44,388 [INFO] Файл dept_it.csv успешно обработан.
+2026-05-07 11:07:44,388 [INFO] Файл dept_marketing.json успешно обработан.
+2026-05-07 11:07:44,397 [WARNING] Дубликат ID it_01 в duplicate.csv Пропущен
+2026-05-07 11:07:44,397 [INFO] Файл duplicate.csv успешно обработан.
+2026-05-07 11:07:44,406 [ERROR] Ошибка в empty_fields.csv: Отсутствует поле или оно пустое: amount
+2026-05-07 11:07:44,406 [ERROR] Ошибка в error_currency.json: Конфликт: EUR вместо USD
+2026-05-07 11:07:44,419 [ERROR] Ошибка в error_negative.csv: Сумма должна быть > 0, получено: -100.0
+2026-05-07 11:07:44,419 [ERROR] Ошибка в image.txt: Формат .txt не поддерживается
+2026-05-07 11:07:44,420 [INFO] Файл manual_costs.json успешно обработан.
